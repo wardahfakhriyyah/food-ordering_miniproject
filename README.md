@@ -19,11 +19,11 @@ Aplikasi ini memungkinkan pengguna untuk melakukan pemesanan makanan melalui seb
    Contoh isi file `.env`:
 
    ```
-DB_HOST=localhost
-DB_PORT=27017
-DB_USER=username
-DB_PASSWORD=password
-DB_NAME=food_ordering
+   DB_HOST=localhost
+   DB_PORT=27017
+   DB_USER=username
+   DB_PASSWORD=password
+   DB_NAME=food_ordering
    ```
    
    Pastikan informasi koneksi yang Anda masukkan sesuai dengan konfigurasi MySQL di komputer Anda.
