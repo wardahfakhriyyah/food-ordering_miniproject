@@ -1,0 +1,22 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "e11e6cf2-444c-428d-b4f0-b9cab565f56a",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "favorite": {
+        "name": "food"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1683775853884"
+        }
+      }
+    }
+  ]
+}
